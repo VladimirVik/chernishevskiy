@@ -1,0 +1,10 @@
+vuepress:
+  title: 'Собрание сочинений Н. Г. Чернышевского'
+  base: '/'
+
+pages:
+  - readme.md
+
+books:
+  - Т01/book.yml
+  - T02/book.yml
